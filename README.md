@@ -5,7 +5,7 @@
 
 -   I'm from Chile
 -   I'm 20 years old
--   I love program 
+-   I love to program 
 -   I Hope to be better than yesterday
 ## My Stats
 ![sdinamarca's Stats](https://github-readme-stats.vercel.app/api?username=sdinamarca&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
