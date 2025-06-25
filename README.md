@@ -27,13 +27,5 @@ Contact me or just say ¡Hi!
 </p>
 
 
-[![Email](https://img.shields.io/badge/Email-sebastian%40roun.solutions-red?style=for-the-badge&logo=gmail)](sebastian@roun.solutions)
-
-[![Instagram](https://img.shields.io/badge/@a.seba.s__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.seba.s_/)
-
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://roun.solutions)
-
-
-
 
 
