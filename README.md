@@ -1,3 +1,4 @@
+![Descripción del GIF](https://storage.googleapis.com/msgsndr/tBeqPYbZMbzOCBGoFFdh/media/685b9892476c9b90e2538ed6.gif)
 
 # Hey there, I'm Sebastian
  I'm a Fullstack Developer and computer engineer student
@@ -15,6 +16,11 @@ Contact me or just say ¡Hi!
 
 [![Email](https://img.shields.io/badge/Email-sebastian%40roun.solutions-red?style=for-the-badge&logo=gmail)](sebastian@roun.solutions)
 
-[![Instagram](https://img.shields.io/badge/@seba.dev_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seba.dev_)
+[![Instagram](https://img.shields.io/badge/@a.seba.s__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.seba.s_/)
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-Web-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://roun.solutions)
+
+
+
+
+
