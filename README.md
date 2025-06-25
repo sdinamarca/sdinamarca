@@ -14,6 +14,19 @@
 ##  Social media
 Contact me or just say ¡Hi!
 
+<p align="center">
+  <a href="mailto:sebastian@roun.solutions">
+    <img src="https://img.shields.io/badge/Email-sebastian%40roun.solutions-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/a.seba.s_/">
+    <img src="https://img.shields.io/badge/@a.seba.s__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://roun.solutions">
+    <img src="https://img.shields.io/badge/Portafolio-Web-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio" />
+  </a>
+</p>
+
+
 [![Email](https://img.shields.io/badge/Email-sebastian%40roun.solutions-red?style=for-the-badge&logo=gmail)](sebastian@roun.solutions)
 
 [![Instagram](https://img.shields.io/badge/@a.seba.s__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.seba.s_/)
